@@ -4,8 +4,7 @@
 
 **Skills demonstrated:** ListObject automation, merged-cell safe reading, section-driven mapping, performance toggles, error handling.
 
-**How to use:
-**
+**How to use:**
 Open MasterTracker.xlsm
 
 Open the workbook containing the InputForm sheet
@@ -14,7 +13,7 @@ Update constants at top of module if needed
 
 Run TransferFormDataToMasterTable
 
-**Expected table headers: **
+**Expected table headers:**
 Header-Level Fields
 
 QuoteDate
